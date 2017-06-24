@@ -22,6 +22,12 @@ class Logowanie (unittest.TestCase):
         a=nawigacja.find_element_by_tag("a")
 
         print [e.text for e in a]
+    def test_patients(self):
+        driver = self.browser
+        driver.get("http://diabcontrol1.herokuapp.com")
+        self.login('doctor_a@example.com', 'admin123')
+        self.driver.find_element_by_link_text("My patients").click()
+
     def login(self, username, password):
         driver = self.driver
         login = driver.find_element_by_name('username')

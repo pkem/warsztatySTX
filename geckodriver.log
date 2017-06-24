@@ -117,3 +117,43 @@ A coding exception was thrown and uncaught in a Task.
 Full message: TypeError: NetworkError when attempting to fetch resource.
 Full stack: 
 *************************
+1498302119320	geckodriver	INFO	Listening on 127.0.0.1:45831
+1498302122125	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498302127277	Marionette	INFO	Listening on port 46414
+1498302127889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498302233879	geckodriver	INFO	Listening on 127.0.0.1:48127
+1498302235131	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498302239485	Marionette	INFO	Listening on port 34563
+1498302240160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498302466698	geckodriver	INFO	Listening on 127.0.0.1:35130
+1498302469714	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498302476484	Marionette	INFO	Listening on port 38966
+1498302478458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498302788307	geckodriver	INFO	Listening on 127.0.0.1:36669
+1498302791049	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498302798041	Marionette	INFO	Listening on port 35890
+1498302798744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498303040810	geckodriver	INFO	Listening on 127.0.0.1:42431
+1498303041617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498303045905	Marionette	INFO	Listening on port 32864
+1498303046478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498303150638	geckodriver	INFO	Listening on 127.0.0.1:46780
+1498303152612	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498303156788	Marionette	INFO	Listening on port 40104
+1498303157321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498303203939	geckodriver	INFO	Listening on 127.0.0.1:47826
+1498303206896	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498303212476	Marionette	INFO	Listening on port 45792
