@@ -1,0 +1,12 @@
+#!/usr/bin/python
+from splinter import browser
+
+
+b=Browser()
+b.visit(sit('http://diabcontrol1.herokuapp.com'))
+b.fill("username", 'doctor_a@example.com')
+b.fill("password", 'admin123')
+btn_patient=b.find_link_by_text("My patients")
+btn_patient.text
+btn_patient.click()
+b.find_by_css('.email')
