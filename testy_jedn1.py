@@ -2,20 +2,26 @@
 # -*- coding: utf-8 -*-
 import unittest
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 
-szukane_slowo = "Szydło"
-class SzukajstronaWP(unittest.TestCase):
+class Logowanie (unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome()
         self.driver.maximize_window()
 
-    def wyszukajslowa(self):
-        self.driver.get("http://www.wp.pl")
+    def test_logowanie(self):
+        self.driver.get("http://diabcontrol1.herokuapp.com")
         driver = self.driver
-        results = driver.find_elements_by_xpath('//div[contains(text(), "' + search_word + '")]')
-        print(len(results))
-        self.assertGreaterEqual(len(results), 1)
+        login = driver.find_element_by_name('username')
+        login.clear()
+        login.send_keys('admin')
+
+        haslo = driver.find_element_by_name('password')
+        haslo.clear()
+        haslo.send_keys('admin123')
+        haslo.send_keys(Keys.RETURN)
+        self.assertIn('test', driver.page_source)
 
     def tearDown(self):
         self.driver.quit()
