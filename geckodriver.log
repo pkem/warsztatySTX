@@ -157,3 +157,39 @@ JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using 
 1498303203939	geckodriver	INFO	Listening on 127.0.0.1:47826
 1498303206896	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
 1498303212476	Marionette	INFO	Listening on port 45792
+1498304515128	geckodriver	INFO	Listening on 127.0.0.1:42630
+1498304516809	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498304521569	Marionette	INFO	Listening on port 45092
+1498304522174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498304535653	geckodriver	INFO	Listening on 127.0.0.1:46793
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498304537500	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498304541120	Marionette	INFO	Listening on port 45527
+1498304541569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498304678271	geckodriver	INFO	Listening on 127.0.0.1:58696
+1498304679925	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498304683942	Marionette	INFO	Listening on port 43948
+1498304684572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498304696623	geckodriver	INFO	Listening on 127.0.0.1:34822
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498304698626	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498304702150	Marionette	INFO	Listening on port 40796
+1498304702594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498305050398	geckodriver	INFO	Listening on 127.0.0.1:37458
+1498305051943	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498305055931	Marionette	INFO	Listening on port 43717
+1498305056550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498305070606	geckodriver	INFO	Listening on 127.0.0.1:51735
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498305072797	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498305077408	Marionette	INFO	Listening on port 41104
+1498305078081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead

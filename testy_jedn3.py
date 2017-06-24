@@ -3,6 +3,7 @@
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from time import sleep
 
 class Logowanie (unittest.TestCase):
 
@@ -14,18 +15,14 @@ class Logowanie (unittest.TestCase):
         driver = self.driver
         self.driver.get("http://diabcontrol1.herokuapp.com")
         self.login('admin', 'admin123')
-        dirver.implicitly_wait(5)
         self.assertIn('Welcome to DiabControl system', driver.page_source)
 
-        nawigacja=find_elements_by_clas("nav nav-sidebar")
-        nawigacja.find_element_by_tag("a")
-        a=nawigacja.find_element_by_tag("a")
 
-        print [e.text for e in a]
     def test_patients(self):
-        driver = self.browser
+        driver = self.driver
         driver.get("http://diabcontrol1.herokuapp.com")
         self.login('doctor_a@example.com', 'admin123')
+        sleep(1)
         self.driver.find_element_by_link_text("My patients").click()
 
     def login(self, username, password):
